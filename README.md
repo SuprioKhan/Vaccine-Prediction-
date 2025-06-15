@@ -33,7 +33,7 @@
 </head>
 <body>
 
-  <h1>📊 Sindh & Punjab PCV Vaccine Forecasting</h1>
+  <h1>📊 Sindh & Punjab Vaccine Forecasting</h1>
 
   <p>This project analyzes and forecasts PCV (Pneumococcal Conjugate Vaccine) distribution trends in the provinces of <strong>Sindh</strong> and <strong>Punjab</strong>, Pakistan. It includes data cleaning, visualization, time series decomposition, and predictive modeling using Facebook Prophet.</p>
 
