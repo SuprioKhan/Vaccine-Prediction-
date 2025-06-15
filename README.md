@@ -1,37 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Sindh & Punjab PCV Vaccine Forecasting</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px auto;
-      max-width: 900px;
-      padding: 0 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code, pre {
-      background-color: #eef;
-      padding: 4px 8px;
-      border-radius: 4px;
-    }
-    .highlight {
-      background-color: #e8f8f5;
-      padding: 1em;
-      border-left: 5px solid #1abc9c;
-    }
-    ul {
-      margin-top: 0;
-    }
-  </style>
-</head>
-<body>
 
   <h1>📊 Sindh & Punjab Vaccine Forecasting</h1>
 
