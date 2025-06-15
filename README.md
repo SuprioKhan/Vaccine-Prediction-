@@ -54,19 +54,6 @@
     <p>Install required libraries:</p>
     <pre><code>pip install pandas numpy matplotlib seaborn plotly prophet scikit-learn</code></pre>
   </div>
-
-  <h2>👩‍💻 Authors</h2>
-  <ul>
-    <li><strong>Your Name</strong> – <a href="https://github.com/yourgithub">@yourgithub</a></li>
-    <li><strong>Affiliation:</strong> NUST / LUMHS / [Your Institution]</li>
-  </ul>
-
-  <h2>📚 References</h2>
-  <ul>
-    <li>Pakistan Census 2023</li>
-    <li><a href="https://facebook.github.io/prophet/" target="_blank">Facebook Prophet Documentation</a></li>
-    <li>WHO Vaccine Strategy Publications</li>
-  </ul>
-
+  
 </body>
 </html>
